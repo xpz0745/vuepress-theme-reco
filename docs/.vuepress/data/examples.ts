@@ -11,4 +11,9 @@ export default [
     link: 'https://www.wstee.com',
     avator: 'https://www.wstee.com/head.jpg',
   },
+  {
+    thumbnail:
+    link: 'https://www.dandan3.top',
+    avator: 'https://www.wstee.com/head.jpg',
+  },
 ]
